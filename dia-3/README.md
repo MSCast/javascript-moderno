@@ -7,4 +7,4 @@ Construir logica tipo sistema real y combinar condicionales para validacion de a
 ## Temario 
 - if, else, else if
 - switch
-- && yb ||
+- && y ||
